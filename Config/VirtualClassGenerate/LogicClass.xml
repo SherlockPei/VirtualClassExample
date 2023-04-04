@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<XML>
+	<Class Id="TestCar"	Path="VirtualClassGenerate/Struct/TestCar.xml"	InstancePath="VirtualClassGenerate/Ini/TestCar.xml"	/>
+	<Class Id="TestPlayer"	Path="VirtualClassGenerate/Struct/TestPlayer.xml"	InstancePath="VirtualClassGenerate/Ini/TestPlayer.xml"	/>
+	<Class Id="TestVirtualClass"	Path="VirtualClassGenerate/Struct/TestVirtualClass.xml"	InstancePath="VirtualClassGenerate/Ini/TestVirtualClass.xml"	/>
+</XML>

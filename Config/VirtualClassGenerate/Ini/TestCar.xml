@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<XML>
+	<Object Id="CarOne" CarName="TestCar1" CarLevel="10" />
+	<Object Id="CarTwo" CarName="TestCar2" CarLevel="10" />
+	<Object Id="CarThree" CarName="TestCar3" CarLevel="10" />
+</XML>
